@@ -4,6 +4,8 @@ My enthusiasm for creative expression led me to explore the realm of 2D animatio
 Beyond the professional sphere, I am an avid learner and an advocate for self-improvement. I have embarked on the journey of learning the German language, attaining an A2 proficiency level. This reflects my dedication to broadening my horizons and embracing cultural diversity.
 What truly sets me apart is my eagerness to tackle challenges head-on and my commitment to growth. Every skill I acquire adds another brushstroke to the canvas of my capabilities. I thrive in collaborative environments, as I value the exchange of ideas and the opportunity to contribute to meaningful projects.
 In a rapidly evolving world, I remain steadfast in my belief that versatility and adaptability are the cornerstones of success. With a solid foundation in graphics design and office administration, coupled with a flair for animation and an emerging expertise in full stack Java development, I am poised to make impactful contributions wherever my journey takes me. My story is one of perpetual transformation and a dedication to turning the unfamiliar into the familiar through an unquenchable thirst for knowledge and growth.
+Regards 
+Anjali Kumari
 <!---
 rvanjali007/rvanjali007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
